@@ -11,10 +11,10 @@ const Header = () => {
                 </div>
                 <nav className='nav'>
                     <ul className='nav_list__header'>
-                        <li><a href="#">Profile</a></li>
-                        <li><a href="#">Videos</a></li>
-                        <li><a href="#">Music</a></li>
-                        <li><a href="#">Messages</a></li>
+                        <li><a href="#" className='item'>Profile</a></li>
+                        <li><a href="#" className='item'>Videos</a></li>
+                        <li><a href="#" className='item'>Music</a></li>
+                        <li><a href="#" className='item'>Messages</a></li>
                     </ul>
                 </nav>
             </div>

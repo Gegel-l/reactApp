@@ -11,7 +11,7 @@
 }
 .profile__info_text p {
     font-size: 24px;
-    color: rgb(75, 75, 75);
+    color: rgb(75, 75, 75); 
 }
 .profile__info_text .name__profile {
     font-size: 34px;
@@ -61,4 +61,12 @@
 }
 .message__profile {
     font-size: 25px;
+}
+.item__test {
+    background-color: tomato;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    font-size: 24px;
+    cursor: pointer;
 }
