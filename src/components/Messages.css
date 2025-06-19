@@ -1,0 +1,45 @@
+.container__messages {
+    background-color: rgb(199, 209, 252);
+    padding: 10px 30px;
+    margin-top: 70px;
+    border-radius: 10px;
+    position: relative;
+}
+.ava__messages {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+}
+.sender__messages {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    position: relative;
+    margin-bottom: 10px;
+}
+.name__sender {
+    font-size: 30px;
+    font-weight: 700;
+}
+.kolvo__sender {
+    font-size: 20px;
+    font-weight: 200;
+}
+.message__sender {
+    font-size: 24px;
+}
+.status_network {
+    width: 15px;
+    height: 15px;
+    background-color: rgb(2, 255, 2);
+    border-radius: 15px;
+    position: absolute;
+    top: 52px;
+    left: 55px;
+}
+.time__sender {
+    font-size: 20px;
+}
+.time__sender span {
+    font-weight: 700;
+}

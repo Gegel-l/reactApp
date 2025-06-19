@@ -1,0 +1,64 @@
+.ava__img {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.profile__info {
+    display: flex;
+    gap: 20px;
+    align-items: start;
+    margin-bottom: 30px;
+}
+.profile__info_text p {
+    font-size: 24px;
+    color: rgb(75, 75, 75);
+}
+.profile__info_text .name__profile {
+    font-size: 34px;
+    font-weight: 700;
+    margin-bottom: 50px;
+    color: rgb(32, 44, 61);
+}
+.title__posts {
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+.input__profile {
+    background-color: rgb(203, 225, 255);
+    width: 100%;
+    padding: 10px 0px 50px 10px;
+    border: none;
+    outline: 0;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.input__profile::placeholder {
+    font-size: 20px;
+}
+.btn__post {
+    font-size: 20px;
+    border: none;
+    background-color: rgb(96, 86, 240);
+    color: white;
+    padding: 10px 35px;
+    cursor: pointer;
+}
+.wrapper_btn {
+    display: flex;
+    width: 100%;
+    justify-content: end;
+}
+.profile__post {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.avatar__img {
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+}
+.message__profile {
+    font-size: 25px;
+}
